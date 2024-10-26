@@ -1,6 +1,4 @@
-Here's a brief description focused on Software Development Engineering (SDE):
 
----
 
 ## About Me
 
