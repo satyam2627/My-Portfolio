@@ -18,4 +18,4 @@ Explore my repositories to see examples of the applications, APIs, and automatio
 
 ---
 
-This description keeps it concise and focused on your core SDE skills. Let me know if you'd like to refine or add anything!
+
